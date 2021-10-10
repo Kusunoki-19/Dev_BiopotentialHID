@@ -1,0 +1,47 @@
+(.../eagle/ulps/_pcb-gcode/pcb-gcode.ulp)
+(Copyright 2005 - 2012 by John Johnson)
+(See readme.txt for licensing terms.)
+(This file generated from the board:)
+(.../workspace/EEG1CH/EEG1CH.brd)
+(Current profile is .../_pcb-gcode/profiles/generic.pp  )
+(This file generated 2021/06/19 20:58)
+(Settings from pcb-machine.h)
+(  Tool Size)
+(1.4000 )
+(Z Axis Settings)
+(  High     Up        Down     Drill)
+(8.0000 	4.0000 	-0.1000 	-1.2000 )
+(spindle on time = 3.0000)
+(milling depth = -1.4000)
+(text depth = -0.1270)
+(tool change at 0.0000 0.0000 30.0000 )
+(feed rate xy = F100.00 )
+(feed rate z  = F50.00 )
+(Settings from pcb-defaults.h)
+(isolate min = 0.0250)
+(isolate max = 0.5000)
+(isolate step = 0.1000)
+(Generated top outlines, top drill, )
+(Unit of measure: mm)
+(Metric Mode)
+G21
+(Absolute Coordinates)
+G90
+G00 X0.0000 Y0.0000 
+M03
+G04 P3.000000
+G00 Z4.0000 
+G00 X0.0000 Y5.0800 
+G01 Z-1.4000 F50.00 
+G01 X0.0000 Y0.0000 F100.00 
+G01 X-48.2600 Y0.0000 
+G01 X-48.2600 Y5.0800 
+G00 Z4.0000 
+G00 X-48.2600 Y7.6200 
+G01 Z-1.4000 F50.00 
+G01 X-48.2600 Y12.7000 F100.00 
+G01 X0.0000 Y12.7000 
+G01 X0.0000 Y7.6200 
+G00 Z8.0000 
+M05
+M02
