@@ -4,4 +4,4 @@ The GOAL of this repository is build up Biooptential(EEG or EMG) HID like mouse 
 
 # Current Goal
 
-1CH EMG HID like switch.
+1CH EMG HID like 1 Button keyboard.
