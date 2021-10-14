@@ -1,2 +1,7 @@
 # Development of BiopotentailHID(Human Interface Device)
-The purpose of this open-source project is the development of an EEG / EMG Human Interface Device.
+
+The GOAL of this repository is build up Biooptential(EEG or EMG) HID like mouse and keyboard !!!!!!!
+
+# Current Goal
+
+1CH EMG HID like switch.
