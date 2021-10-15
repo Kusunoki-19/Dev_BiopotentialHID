@@ -1,13 +1,17 @@
 # Development of BiopotentailHID(Human Interface Device)
 
-# The Project's Dream !!!
+脳波(EEG)でiPhoneを操作することをあたりまえに..
+
+# The Project's Dream
 
 The Project's Dream is realize **"Avatar Full Controlling Device"** by using EEG Device like Anime *Sword Art Online* . I want the world where the EEG device is commonplace to spread...
 
-このプロジェクトの夢は、アニメ*ソードアートオンライン*のような、EEGによる **"アバターフルコントロールデバイス"** を実現させることです。そんなEEGデバイスが当たり前の世の中が広まることです!!!
+このプロジェクトの夢は、アニメ*ソードアートオンライン*のような、EEGによる **"アバターフルコントロールデバイス"** を実現させることです。そんなEEGデバイスが当たり前の世の中が広まればいいなと思っています。
 
 ![w:100](Doc/Images/Kirito.drawio.svg)
+
 left image from https://id.pinterest.com/pin/133067363968527540/
+
 right image from image from https://www.pinterest.co.uk/pin/654359020838515059/
 
 # このブロジェクトの存在理由.
