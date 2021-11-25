@@ -13,11 +13,11 @@
 
 # 開発プロジェクトへの参加
 
-→[プロジェクトの参加方法](/Doc/EntryProject/HowToEntry.md)
+→[プロジェクトの参加方法](/Doc/HowToEntry.md)
 
-# プロジェクトの利用方法 プロジェクトの利用方法
+# リポジトリの構造・利用方法
 
-→[プロジェクトの利用方法](/Doc/UsageOfProjects/Readme.md) 現在工事中...
+→[プロジェクトの利用方法](/Doc/README.md) 
 
 # 現在の開発目標1：EMGによる1CHのキーボード入力デバイス
 
@@ -47,16 +47,12 @@
 [ScrapBoxリンク (BiopotentialMemos)](https://scrapbox.io/BiopotentialMemos/ )
 
 
+---
 
 # 最終目標
 
-このプロジェクトの夢は、アニメ*ソードアートオンライン*のような、EEGによる **"アバターフルコントロールデバイス"** を実現させることです。そんなEEGデバイスが当たり前の世の中が広まればいいなと思っています。
+このプロジェクトの夢は、アニメ*ソードアートオンライン*のような、EEGによる **"アバターフルコントロールデバイス"** を実現させられればいいなと思っています。そのほか、ハンドフリーでスマートフォンを操作したり、VRとの連携であったりなど、可能性の多いデバイスになることを期待しています。
 
-![w:100](Doc/Images/Kirito.drawio.svg)
-
-left image from https://id.pinterest.com/pin/133067363968527540/
-
-right image from image from https://www.pinterest.co.uk/pin/654359020838515059/
 
 # 大目標
 

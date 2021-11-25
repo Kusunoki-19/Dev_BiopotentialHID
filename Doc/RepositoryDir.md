@@ -14,7 +14,7 @@ Repository
             /EMG1ChCircuitCover/Readme.md
             /EMG1ChCircuitCover/Projects's files..
 
-        /Circuite
+        /Circuit
             /EMG1ChAnalogAmplifier/Readme.md
             /EMG1ChAnalogAmplifier/Project's files..
 
